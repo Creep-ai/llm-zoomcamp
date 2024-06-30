@@ -16,6 +16,7 @@ groq = "*"
 ruff = "*"
 mypy = "*"
 pandas-stubs = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.10"
