@@ -11,6 +11,7 @@ elasticsearch = "*"
 pandas = "*"
 scikit-learn = "*"
 groq = "*"
+tiktoken = "*"
 
 [dev-packages]
 ruff = "*"
