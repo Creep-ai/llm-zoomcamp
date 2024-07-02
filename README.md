@@ -1,6 +1,7 @@
 # llm-zoomcamp
+***
 
-Run elaasticsearch with docker:
+Run Elasticsearch with docker:
 
 ```
 docker run -it \
@@ -17,3 +18,4 @@ docker run -it \
 Note:
 
 -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" - you may need this environment variable if elasticsearch is not starting, but it's not nessesary
+***
