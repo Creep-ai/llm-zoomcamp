@@ -12,6 +12,7 @@ pandas = "*"
 scikit-learn = "*"
 groq = "*"
 tiktoken = "*"
+sentence-transformers = "==2.7.0"
 
 [dev-packages]
 ruff = "*"
