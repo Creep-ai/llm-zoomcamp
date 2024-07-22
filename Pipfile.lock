@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d9910b58c4929303628c10b072dd12a3891b71709d2b488e7fb788fdfe2440c4"
+            "sha256": "6bdae100f381fe6acb82ff8452a88c4ef14c09d83563feffc254507af26c20cd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -998,6 +998,15 @@
             ],
             "markers": "platform_system == 'Linux' and platform_machine == 'x86_64'",
             "version": "==12.1.105"
+        },
+        "ollama": {
+            "hashes": [
+                "sha256:6ff493a2945ba76cdd6b7912a1cd79a45cfd9ba9120d14adeb63b2b5a7f353da",
+                "sha256:cd7010c4e2a37d7f08f36cd35c4592b14f1ec0d1bf3df10342cd47963d81ad7a"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8' and python_version < '4.0'",
+            "version": "==0.3.0"
         },
         "openai": {
             "hashes": [
