@@ -14,4 +14,3 @@ curl -fsSL https://ollama.com/install.sh | sh
 nohup ollama serve > nohup.out 2>&1 &
 ollama pull llama2-uncensored
 ```
-6.
