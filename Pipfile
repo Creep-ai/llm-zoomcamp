@@ -15,6 +15,7 @@ tiktoken = "*"
 sentence-transformers = "==2.7.0"
 dlt = {extras = ["lancedb"], version = "==0.5.1a0"}
 ollama = "*"
+rouge = "*"
 
 [dev-packages]
 ruff = "*"
